@@ -1757,6 +1757,7 @@ var cnames_active = {
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kfg": "drysius.github.io/kfg",
+  "khunkai": "bakery-khunkai-shop.pages.dev",
   "kickstack": "cname.vercel-dns.com", // noCF
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
